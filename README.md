@@ -1,0 +1,2 @@
+# blueteam_darkweb_leak_monitor
+监控企业数据是否出现在3个暗网搜索引擎的结果里面，发现就会告警出来。
